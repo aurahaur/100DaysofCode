@@ -1,0 +1,19 @@
+acerola
+apple
+apricot
+avocado
+banana
+cantaloupe
+breadfruit
+carambola
+durian
+guava
+mango
+orange
+papaya
+pear
+pineapple
+pomegranate
+soursop
+watermelon
+passion fruit
